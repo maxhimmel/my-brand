@@ -5,6 +5,9 @@
   "references": [
     {
       "path": "./apps/my-website"
+    },
+    {
+      "path": "./libs/ui"
     }
   ]
 }

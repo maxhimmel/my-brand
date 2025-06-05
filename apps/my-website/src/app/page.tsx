@@ -1,3 +1,5 @@
+import { Button } from '@my-brand/ui';
+
 export default function Index() {
   /*
    * Replace the elements below with your own.
@@ -12,6 +14,7 @@ export default function Index() {
             <h1>
               <span className="bg-primary"> Hello there, </span>
               Welcome @my-brand/my-website 👋
+              <Button>HOWDY ✨</Button>
             </h1>
           </div>
 

@@ -10,7 +10,7 @@ export default function Index() {
         <div className="container">
           <div id="welcome">
             <h1>
-              <span> Hello there, </span>
+              <span className="bg-primary"> Hello there, </span>
               Welcome @my-brand/my-website 👋
             </h1>
           </div>

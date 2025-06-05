@@ -1,4 +1,5 @@
 import './global.css';
+import '@my-brand/ui/global.css';
 
 export const metadata = {
   title: 'Welcome to ',
